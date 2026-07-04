@@ -1,0 +1,14 @@
+column,missing_count,missing_percent,unique_values,dtype
+case_number,0,0.0,20691,object
+initiated_date,0,0.0,366,datetime64[ns]
+channel,39,0.19,8,object
+industry,0,0.0,21,object
+product,0,0.0,110,object
+oft_region,2727,13.18,18,object
+vulnerable_group_provided,0,0.0,2,object
+complaint_date,0,0.0,366,datetime64[ns]
+complaint_year,0,0.0,1,int32
+complaint_month,0,0.0,12,object
+complaint_quarter,0,0.0,4,object
+category_clean,0,0.0,21,object
+business_clean,20691,100.0,0,object

@@ -1,0 +1,13 @@
+metric,value
+original_rows,20691
+cleaned_rows,20691
+original_columns,7
+cleaned_columns,13
+duplicate_rows_removed,0
+detected_date_column,initiated_date
+detected_category_column,industry
+detected_business_column,not_detected
+date_min,2024-01-01 00:00:00
+date_max,2024-12-31 00:00:00
+unique_categories,21
+unique_businesses,0
