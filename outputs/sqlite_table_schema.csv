@@ -1,0 +1,14 @@
+cid,name,type,notnull,dflt_value,pk
+0,case_number,TEXT,0,,0
+1,initiated_date,TEXT,0,,0
+2,channel,TEXT,0,,0
+3,industry,TEXT,0,,0
+4,product,TEXT,0,,0
+5,oft_region,TEXT,0,,0
+6,vulnerable_group_provided,TEXT,0,,0
+7,complaint_date,TEXT,0,,0
+8,complaint_year,INTEGER,0,,0
+9,complaint_month,TEXT,0,,0
+10,complaint_quarter,TEXT,0,,0
+11,category_clean,TEXT,0,,0
+12,business_clean,REAL,0,,0
