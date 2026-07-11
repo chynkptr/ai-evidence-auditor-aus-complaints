@@ -1,4 +1,12 @@
 # AI Evidence Auditor for Australian Consumer Complaints
+## Current status
+- Repository created
+- Folder structure created
+- Raw dataset downloaded
+- Data cleaned using Python
+- SQLite database created
+- SQL business analysis completed
+- Excel dashboard created
 
 ## Overview
 This project analyses Australian consumer complaints data using Python, SQL, Excel, and GenAI.
